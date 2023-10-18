@@ -1,3 +1,3 @@
 # EthereumEG Improvement Proposals (EEGIP)
 
-The goal of the EEGIP project is to standardize and provide high-quality documentation for Ethereum Event Gardeners (EthereumEG or EEG) itself and conventions built upon it. This repository tracks past and ongoing improvements in the form of Ethereum Event Gardeners Improvement Proposals (EEGIPs). [EEGIP-1](./EEGIPS/eegip-1.md) governs how EEGIPs are published.
+The EEGIP repository provides guidelines and standards applicable to both the Ethereum Event Gardeners (EthereumEG or EEG) community and the broader (Ethereum) event ecosystem, encompassing hackathons, conferences, meetups, and other gatherings. These standards are captured in documents referred to as **Ethereum Event Gardeners Improvement Proposals** (EEGIPs). The methodology for submitting and documenting these proposals is outlined in [EEGIP-1](./EEGIPS/eegip-1.md).
